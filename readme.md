@@ -1,7 +1,7 @@
-git init
-git add .
-git status
-git commit -m "commit"
-git branch -M main
-git remote add origin https://github.com/username/repo_name.git
-git push -u origin main
+git init <br>
+git add . <br>
+git status <br>
+git commit -m "commit" <br>
+git branch -M main <br>
+git remote add origin https://github.com/username/repo_name.git <br>
+git push -u origin main <br>
